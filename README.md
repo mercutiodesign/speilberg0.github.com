@@ -1,4 +1,4 @@
 DayZ map of Chernarus
 =====================
 
-[Map here](speilberg0.github.com)
+[Map here](http://speilberg0.github.com)
